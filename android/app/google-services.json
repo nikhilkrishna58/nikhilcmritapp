@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714450500836",
+    "firebase_url": "https://cmrit3.firebaseio.com",
+    "project_id": "cmrit3",
+    "storage_bucket": "cmrit3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714450500836:android:59a7d06e048d9931e440f1",
+        "android_client_info": {
+          "package_name": "com.krishnasummit.cmr3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714450500836-blmsgruc3enr78jo94a693jjahuegpnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lSZS8TFVm8v4U9u18V8SDcaa1QCUsSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714450500836-blmsgruc3enr78jo94a693jjahuegpnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
